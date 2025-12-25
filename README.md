@@ -1,99 +1,63 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=JIHOON%20CHAE&fontSize=70&animation=fadeIn" width="100%" />
-
-### 🛠️ "사용자 경험(UX)과 안정적인 백엔드 구조를 연결합니다"
-단순한 코드 구현을 넘어, **실제로 동작하고 사랑받는 서비스**를 목표로 합니다.  
-React Native를 활용한 고성능 모바일 UI 구현부터, Spring Boot 기반의 보안이 강화된 백엔드 설계까지  
-**Full-stack 역량**을 바탕으로 서비스의 엔드투엔드(End-to-End)를 책임집니다.
-
-<p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.link"><img src="https://img.shields.io/badge/Portfolio-00d2ff?style=flat-square&logo=About.me&logoColor=white"/></a>
-  <a href="https://github.com/DUChae"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-</p>
-
----
-
-## 💻 Technical Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="150"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><strong>Database & Auth</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📂 Featured Projects
-
-### 📸 사진작가 & 고객 매칭 플랫폼 (Chalkak)
-> **Frontend Focused | React Native Mobile App**
-- **Summary**: 촬영 스타일 필터, 예약 시스템, 리뷰/커뮤니티를 포함한 실사용 MVP
-- **Key Features**: 작가 포트폴리오 조회, 실시간 예약 요청/수락 플로우, 커뮤니티 게시판
-- **Technical Focus**: 
-  - 모바일 API 지연을 고려한 **로딩/에러 UX 처리**
-  - **FlatList Lazy Rendering** 및 서버 페이지네이션 적용으로 성능 최적화
-  - JWT 기반 인증 흐름에 따른 **프론트엔드 상태 관리**
-
-### 🔐 Spring Boot JWT REST API 
-> **Backend Focused | Security & Architecture**
-- **Summary**: 토큰 인증 및 권한 검증이 적용된 정석적인 RESTful 게시판 백엔드
-- **Technical Focus**: 
-  - **Security FilterChain** 분리 설계를 통한 인증 충돌 해결
-  - MVC와 REST 공존 환경에서의 유연한 권한 관리 프로세스 구축
-  - 구조적 리팩토링을 통한 코드 재사용성 및 유지보수성 향상
-
-### 💬 실시간 다국어 번역 채팅 
-> **Full-stack | 실시간 양방향 통신**
-- **Summary**: WebSocket과 번역 API를 결합한 실시간 커뮤니케이션 서비스
-- **Technical Focus**: 
-  - **Socket.io** 기반의 저지연 양방향 통신 구현
-  - Google Translation API 연동을 통한 실시간 데이터 처리 자동화
-
-### 📊 IMDB 데이터 분석 및 시각화
-> **Data Engineering | Insight Derivation**
-- **Summary**: Python과 Tableau를 활용한 영화 흥행 요인 분석
-- **Insight**: 데이터 정제 및 상관관계 분석을 통한 흥행 트렌드 도출
-
----
-
-## 📈 Analysis & Goals
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DUChae&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUChae&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
-</p>
-
-- 🎯 **Frontend**: 사용자 흐름(User Flow)을 먼저 설계하는 습관으로 최상의 UX 제공
-- 🎯 **Backend**: 확장 가능하고 보안이 강력한 API 아키텍처 설계
-- 🎯 **Communication**: 팀 프로젝트에서 역할 분리와 코드 리뷰를 통한 동반 성장 중시
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Jihoon%20Chae&section=header&fontAlign=50&animation=fadeIn&stroke=00ff00&strokeWidth=2" width="100%" />
 </div>
 
+<div align="center">
+  <br/>
+  <h3>🛠️ "사용자 경험(UX)과 안정적인 백엔드 구조를 연결합니다"</h3>
+  <p>단순한 코드 구현을 넘어, 실제로 동작하고 사랑받는 서비스를 목표로 합니다.<br/>
+  React Native를 활용한 고성능 모바일 UI 구현부터, Spring Boot 기반의 보안이 강화된 백엔드 설계까지<br/>
+  Full-stack 역량을 바탕으로 서비스의 엔드투엔드(End-to-End)를 책임집니다.</p>
+</div>
+
+<br/>
+
+<h3 align="center">💻 Technical Stack 💻</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react_native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" />&nbsp
+</div>
+
+<br/>
+
+<h3 align="center">📂 Featured Projects 📂</h3>
+
+#### 📸 사진작가 & 고객 매칭 플랫폼 [Chalkak]
+> **React Native | 사용자 경험 최적화**
+- **Challenge**: 대규모 이미지 리스트 렌더링 시 메모리 부하로 인한 스크롤 성능 저하.
+- **Solution**: `FlatList`의 **Lazy Rendering** 최적화 및 서버 페이지네이션 연동으로 성능 개선.
+- **Key Experience**: JWT 인증 흐름에 따른 프론트엔드 상태 관리 및 Skeleton UI 구현.
+
+#### 🔐 Spring Boot JWT REST API
+> **Spring Boot | 보안 및 아키텍처 설계**
+- **Challenge**: MVC와 REST 하이브리드 환경에서의 Security Filter 인증 충돌 해결.
+- **Solution**: **SecurityFilterChain 분리 설계**를 통해 독립적인 인증 프로세스 구축.
+
+#### 💬 실시간 다국어 번역 채팅 & 📊 데이터 분석
+- Socket.io 기반 실시간 통신 및 Python/Tableau를 활용한 영화 흥행 인사이트 도출.
+
+<br/>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DUChae">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
